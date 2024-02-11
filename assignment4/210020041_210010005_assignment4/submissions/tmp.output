@@ -1,0 +1,28 @@
+Access is denied.
+\rjngu\OneDrive\Desktop\ca_assignment\assignment4\210020041_210010005_assignment4\submissions\build.xml
+
+build-subprojects:
+
+init:
+     [copy] Copying 6 files to C:\Users\rjngu\OneDrive\Desktop\ca_assignment\assignment4\210020041_210010005_assignment4\submissions\bin
+
+build-project:
+    [javac] Compiling 22 source files to C:\Users\rjngu\OneDrive\Desktop\ca_assignment\assignment4\210020041_210010005_assignment4\submissions\bin
+    [javac] warning: [options] bootstrap class path not set in conjunction with -source 8
+    [javac] warning: [options] source value 8 is obsolete and will be removed in a future release
+    [javac] warning: [options] target value 8 is obsolete and will be removed in a future release
+    [javac] warning: [options] To suppress warnings about obsolete options, use -Xlint:-options.
+    [javac] 4 warnings
+
+build:
+
+make-jar:
+      [jar] Building jar: C:\Users\rjngu\OneDrive\Desktop\ca_assignment\assignment4\210020041_210010005_assignment4\submissions\jars\simulator.jar
+
+BUILD SUCCESSFUL
+Total time: 3 seconds
+_assignment\assignment4\210020041_210010005_assignment4\submissions\jars
+      [jar] Building jar: C:\Users\rjngu\OneDrive\Desktop\ca_assignment\assignment4\210020041_210010005_assignment4\submissions\jars\simulator.jar
+
+BUILD SUCCESSFUL
+Total time: 2 seconds

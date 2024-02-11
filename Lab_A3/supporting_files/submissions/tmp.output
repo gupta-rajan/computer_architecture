@@ -1,0 +1,461 @@
+Buildfile: C:\Users\rjngu\OneDrive\Desktop\ca_assignment\Lab_A3\supporting_files\submissions\build.xml
+
+build-subprojects:
+
+init:
+     [copy] Copying 2 files to C:\Users\rjngu\OneDrive\Desktop\ca_assignment\Lab_A3\supporting_files\submissions\bin
+
+build-project:
+    [javac] Compiling 22 source files to C:\Users\rjngu\OneDrive\Desktop\ca_assignment\Lab_A3\supporting_files\submissions\bin
+    [javac] warning: [options] bootstrap class path not set in conjunction with -source 8
+    [javac] warning: [options] source value 8 is obsolete and will be removed in a future release
+    [javac] warning: [options] target value 8 is obsolete and will be removed in a future release
+    [javac] warning: [options] To suppress warnings about obsolete options, use -Xlint:-options.
+    [javac] 4 warnings
+
+build:
+
+make-jar:
+      [jar] Building jar: C:\Users\rjngu\OneDrive\Desktop\ca_assignment\Lab_A3\supporting_files\submissions\jars\simulator.jar
+
+BUILD SUCCESSFUL
+Total time: 2 seconds
+BUILD FAILED
+/mnt/c/Users/rjngu/OneDrive/Desktop/ca_assignment/Lab_A3/supporting_files/submissions/build.xml:13: /mnt/c/Users/rjngu/OneDrive/Desktop/ca_assignment/Lab_A3/supporting_files/submissions/src does not exist.
+
+Total time: 0 seconds
+Buildfile: /mnt/c/Users/rjngu/OneDrive/Desktop/ca_assignment/Lab_A3/supporting_files/submissions/build.xml
+
+build-subprojects:
+
+init:
+
+BUILD FAILED
+/mnt/c/Users/rjngu/OneDrive/Desktop/ca_assignment/Lab_A3/supporting_files/submissions/build.xml:13: /mnt/c/Users/rjngu/OneDrive/Desktop/ca_assignment/Lab_A3/supporting_files/submissions/src does not exist.
+
+Total time: 0 seconds
+Buildfile: /mnt/c/Users/rjngu/OneDrive/Desktop/ca_assignment/Lab_A3/supporting_files/submissions/build.xml
+
+build-subprojects:
+
+init:
+     [copy] Warning: CA_lab3_report.pdf modified in the future.
+     [copy] Warning: configuration/config.xml modified in the future.
+     [copy] Copying 2 files to /mnt/c/Users/rjngu/OneDrive/Desktop/ca_assignment/Lab_A3/supporting_files/submissions/bin
+
+build-project:
+    [javac] Warning: CA_lab3_report.pdf modified in the future.
+    [javac] Warning: configuration/Configuration.java modified in the future.
+    [javac] Warning: configuration/config.xml modified in the future.
+    [javac] Warning: generic/Instruction.java modified in the future.
+    [javac] Warning: generic/Misc.java modified in the future.
+    [javac] Warning: generic/Operand.java modified in the future.
+    [javac] Warning: generic/Simulator.java modified in the future.
+    [javac] Warning: generic/Statistics.java modified in the future.
+    [javac] Warning: main/Main.java modified in the future.
+    [javac] Warning: processor/Clock.java modified in the future.
+    [javac] Warning: processor/Processor.java modified in the future.
+    [javac] Warning: processor/memorysystem/MainMemory.java modified in the future.
+    [javac] Warning: processor/pipeline/EX_IF_LatchType.java modified in the future.
+    [javac] Warning: processor/pipeline/EX_MA_LatchType.java modified in the future.
+    [javac] Warning: processor/pipeline/Execute.java modified in the future.
+    [javac] Warning: processor/pipeline/IF_EnableLatchType.java modified in the future.
+    [javac] Warning: processor/pipeline/IF_OF_LatchType.java modified in the future.
+    [javac] Warning: processor/pipeline/InstructionFetch.java modified in the future.
+    [javac] Warning: processor/pipeline/MA_RW_LatchType.java modified in the future.
+    [javac] Warning: processor/pipeline/MemoryAccess.java modified in the future.
+    [javac] Warning: processor/pipeline/OF_EX_LatchType.java modified in the future.
+    [javac] Warning: processor/pipeline/OperandFetch.java modified in the future.
+    [javac] Warning: processor/pipeline/RegisterFile.java modified in the future.
+    [javac] Warning: processor/pipeline/RegisterWrite.java modified in the future.
+    [javac] Compiling 22 source files to /mnt/c/Users/rjngu/OneDrive/Desktop/ca_assignment/Lab_A3/supporting_files/submissions/bin
+    [javac] warning: [options] bootstrap class path not set in conjunction with -source 8
+    [javac] 1 warning
+
+build:
+
+make-jar:
+    [mkdir] Created dir: /mnt/c/Users/rjngu/OneDrive/Desktop/ca_assignment/Lab_A3/supporting_files/submissions/jars
+      [jar] Building jar: /mnt/c/Users/rjngu/OneDrive/Desktop/ca_assignment/Lab_A3/supporting_files/submissions/jars/simulator.jar
+
+BUILD SUCCESSFUL
+Total time: 9 seconds
+Buildfile: /mnt/c/Users/rjngu/OneDrive/Desktop/ca_assignment/Lab_A3/supporting_files/submissions/build.xml
+
+build-subprojects:
+
+init:
+     [copy] Warning: configuration/config.xml modified in the future.
+     [copy] Warning: lab_report.pdf modified in the future.
+     [copy] Copying 2 files to /mnt/c/Users/rjngu/OneDrive/Desktop/ca_assignment/Lab_A3/supporting_files/submissions/bin
+
+build-project:
+    [javac] Warning: configuration/Configuration.java modified in the future.
+    [javac] Warning: configuration/config.xml modified in the future.
+    [javac] Warning: generic/Instruction.java modified in the future.
+    [javac] Warning: generic/Misc.java modified in the future.
+    [javac] Warning: generic/Operand.java modified in the future.
+    [javac] Warning: generic/Simulator.java modified in the future.
+    [javac] Warning: generic/Statistics.java modified in the future.
+    [javac] Warning: lab_report.pdf modified in the future.
+    [javac] Warning: main/Main.java modified in the future.
+    [javac] Warning: processor/Clock.java modified in the future.
+    [javac] Warning: processor/Processor.java modified in the future.
+    [javac] Warning: processor/memorysystem/MainMemory.java modified in the future.
+    [javac] Warning: processor/pipeline/EX_IF_LatchType.java modified in the future.
+    [javac] Warning: processor/pipeline/EX_MA_LatchType.java modified in the future.
+    [javac] Warning: processor/pipeline/Execute.java modified in the future.
+    [javac] Warning: processor/pipeline/IF_EnableLatchType.java modified in the future.
+    [javac] Warning: processor/pipeline/IF_OF_LatchType.java modified in the future.
+    [javac] Warning: processor/pipeline/InstructionFetch.java modified in the future.
+    [javac] Warning: processor/pipeline/MA_RW_LatchType.java modified in the future.
+    [javac] Warning: processor/pipeline/MemoryAccess.java modified in the future.
+    [javac] Warning: processor/pipeline/OF_EX_LatchType.java modified in the future.
+    [javac] Warning: processor/pipeline/OperandFetch.java modified in the future.
+    [javac] Warning: processor/pipeline/RegisterFile.java modified in the future.
+    [javac] Warning: processor/pipeline/RegisterWrite.java modified in the future.
+    [javac] Compiling 22 source files to /mnt/c/Users/rjngu/OneDrive/Desktop/ca_assignment/Lab_A3/supporting_files/submissions/bin
+    [javac] warning: [options] bootstrap class path not set in conjunction with -source 8
+    [javac] 1 warning
+
+build:
+
+make-jar:
+      [jar] Warning: configuration/Configuration.class modified in the future.
+      [jar] Warning: configuration/config.xml modified in the future.
+      [jar] Warning: generic/Instruction$OperationType.class modified in the future.
+      [jar] Warning: generic/Instruction.class modified in the future.
+      [jar] Warning: generic/Misc.class modified in the future.
+      [jar] Warning: generic/Operand$OperandType.class modified in the future.
+      [jar] Warning: generic/Operand.class modified in the future.
+      [jar] Warning: generic/Simulator.class modified in the future.
+      [jar] Warning: generic/Statistics.class modified in the future.
+      [jar] Warning: lab_report.pdf modified in the future.
+      [jar] Warning: main/Main.class modified in the future.
+      [jar] Warning: processor/Clock.class modified in the future.
+      [jar] Warning: processor/Processor.class modified in the future.
+      [jar] Warning: processor/memorysystem/MainMemory.class modified in the future.
+      [jar] Warning: processor/pipeline/EX_IF_LatchType.class modified in the future.
+      [jar] Warning: processor/pipeline/EX_MA_LatchType.class modified in the future.
+      [jar] Warning: processor/pipeline/Execute.class modified in the future.
+      [jar] Warning: processor/pipeline/IF_EnableLatchType.class modified in the future.
+      [jar] Warning: processor/pipeline/IF_OF_LatchType.class modified in the future.
+      [jar] Warning: processor/pipeline/InstructionFetch.class modified in the future.
+      [jar] Warning: processor/pipeline/MA_RW_LatchType.class modified in the future.
+      [jar] Warning: processor/pipeline/MemoryAccess.class modified in the future.
+      [jar] Warning: processor/pipeline/OF_EX_LatchType.class modified in the future.
+      [jar] Warning: processor/pipeline/OperandFetch.class modified in the future.
+      [jar] Warning: processor/pipeline/RegisterFile.class modified in the future.
+      [jar] Warning: processor/pipeline/RegisterWrite.class modified in the future.
+      [jar] Building jar: /mnt/c/Users/rjngu/OneDrive/Desktop/ca_assignment/Lab_A3/supporting_files/submissions/jars/simulator.jar
+
+BUILD SUCCESSFUL
+Total time: 8 seconds
+Buildfile: /mnt/c/Users/rjngu/OneDrive/Desktop/ca_assignment/Lab_A3/supporting_files/submissions/build.xml
+
+build-subprojects:
+
+init:
+     [copy] Warning: configuration/config.xml modified in the future.
+     [copy] Warning: lab_report.pdf modified in the future.
+     [copy] Copying 1 file to /mnt/c/Users/rjngu/OneDrive/Desktop/ca_assignment/Lab_A3/supporting_files/submissions/bin
+
+build-project:
+    [javac] Warning: configuration/Configuration.java modified in the future.
+    [javac] Warning: configuration/config.xml modified in the future.
+    [javac] Warning: generic/Instruction.java modified in the future.
+    [javac] Warning: generic/Misc.java modified in the future.
+    [javac] Warning: generic/Operand.java modified in the future.
+    [javac] Warning: generic/Simulator.java modified in the future.
+    [javac] Warning: generic/Statistics.java modified in the future.
+    [javac] Warning: lab_report.pdf modified in the future.
+    [javac] Warning: main/Main.java modified in the future.
+    [javac] Warning: processor/Clock.java modified in the future.
+    [javac] Warning: processor/Processor.java modified in the future.
+    [javac] Warning: processor/memorysystem/MainMemory.java modified in the future.
+    [javac] Warning: processor/pipeline/EX_IF_LatchType.java modified in the future.
+    [javac] Warning: processor/pipeline/EX_MA_LatchType.java modified in the future.
+    [javac] Warning: processor/pipeline/Execute.java modified in the future.
+    [javac] Warning: processor/pipeline/IF_EnableLatchType.java modified in the future.
+    [javac] Warning: processor/pipeline/IF_OF_LatchType.java modified in the future.
+    [javac] Warning: processor/pipeline/InstructionFetch.java modified in the future.
+    [javac] Warning: processor/pipeline/MA_RW_LatchType.java modified in the future.
+    [javac] Warning: processor/pipeline/MemoryAccess.java modified in the future.
+    [javac] Warning: processor/pipeline/OF_EX_LatchType.java modified in the future.
+    [javac] Warning: processor/pipeline/OperandFetch.java modified in the future.
+    [javac] Warning: processor/pipeline/RegisterFile.java modified in the future.
+    [javac] Warning: processor/pipeline/RegisterWrite.java modified in the future.
+    [javac] Compiling 22 source files to /mnt/c/Users/rjngu/OneDrive/Desktop/ca_assignment/Lab_A3/supporting_files/submissions/bin
+    [javac] warning: [options] bootstrap class path not set in conjunction with -source 8
+    [javac] 1 warning
+
+build:
+
+make-jar:
+      [jar] Warning: configuration/Configuration.class modified in the future.
+      [jar] Warning: configuration/config.xml modified in the future.
+      [jar] Warning: generic/Instruction$OperationType.class modified in the future.
+      [jar] Warning: generic/Instruction.class modified in the future.
+      [jar] Warning: generic/Misc.class modified in the future.
+      [jar] Warning: generic/Operand$OperandType.class modified in the future.
+      [jar] Warning: generic/Operand.class modified in the future.
+      [jar] Warning: generic/Simulator.class modified in the future.
+      [jar] Warning: generic/Statistics.class modified in the future.
+      [jar] Warning: lab_report.pdf modified in the future.
+      [jar] Warning: main/Main.class modified in the future.
+      [jar] Warning: processor/Clock.class modified in the future.
+      [jar] Warning: processor/Processor.class modified in the future.
+      [jar] Warning: processor/memorysystem/MainMemory.class modified in the future.
+      [jar] Warning: processor/pipeline/EX_IF_LatchType.class modified in the future.
+      [jar] Warning: processor/pipeline/EX_MA_LatchType.class modified in the future.
+      [jar] Warning: processor/pipeline/Execute.class modified in the future.
+      [jar] Warning: processor/pipeline/IF_EnableLatchType.class modified in the future.
+      [jar] Warning: processor/pipeline/IF_OF_LatchType.class modified in the future.
+      [jar] Warning: processor/pipeline/InstructionFetch.class modified in the future.
+      [jar] Warning: processor/pipeline/MA_RW_LatchType.class modified in the future.
+      [jar] Warning: processor/pipeline/MemoryAccess.class modified in the future.
+      [jar] Warning: processor/pipeline/OF_EX_LatchType.class modified in the future.
+      [jar] Warning: processor/pipeline/OperandFetch.class modified in the future.
+      [jar] Warning: processor/pipeline/RegisterFile.class modified in the future.
+      [jar] Warning: processor/pipeline/RegisterWrite$1.class modified in the future.
+      [jar] Warning: processor/pipeline/RegisterWrite.class modified in the future.
+      [jar] Building jar: /mnt/c/Users/rjngu/OneDrive/Desktop/ca_assignment/Lab_A3/supporting_files/submissions/jars/simulator.jar
+
+BUILD SUCCESSFUL
+Total time: 6 seconds
+Buildfile: /mnt/c/Users/rjngu/OneDrive/Desktop/ca_assignment/Lab_A3/supporting_files/submissions/build.xml
+
+build-subprojects:
+
+init:
+     [copy] Warning: configuration/config.xml modified in the future.
+     [copy] Warning: lab_report.pdf modified in the future.
+     [copy] Warning: lab_report_210020041_210010005.pdf modified in the future.
+     [copy] Copying 2 files to /mnt/c/Users/rjngu/OneDrive/Desktop/ca_assignment/Lab_A3/supporting_files/submissions/bin
+
+build-project:
+    [javac] Warning: configuration/Configuration.java modified in the future.
+    [javac] Warning: configuration/config.xml modified in the future.
+    [javac] Warning: generic/Instruction.java modified in the future.
+    [javac] Warning: generic/Misc.java modified in the future.
+    [javac] Warning: generic/Operand.java modified in the future.
+    [javac] Warning: generic/Simulator.java modified in the future.
+    [javac] Warning: generic/Statistics.java modified in the future.
+    [javac] Warning: lab_report.pdf modified in the future.
+    [javac] Warning: lab_report_210020041_210010005.pdf modified in the future.
+    [javac] Warning: main/Main.java modified in the future.
+    [javac] Warning: processor/Clock.java modified in the future.
+    [javac] Warning: processor/Processor.java modified in the future.
+    [javac] Warning: processor/memorysystem/MainMemory.java modified in the future.
+    [javac] Warning: processor/pipeline/EX_IF_LatchType.java modified in the future.
+    [javac] Warning: processor/pipeline/EX_MA_LatchType.java modified in the future.
+    [javac] Warning: processor/pipeline/Execute.java modified in the future.
+    [javac] Warning: processor/pipeline/IF_EnableLatchType.java modified in the future.
+    [javac] Warning: processor/pipeline/IF_OF_LatchType.java modified in the future.
+    [javac] Warning: processor/pipeline/InstructionFetch.java modified in the future.
+    [javac] Warning: processor/pipeline/MA_RW_LatchType.java modified in the future.
+    [javac] Warning: processor/pipeline/MemoryAccess.java modified in the future.
+    [javac] Warning: processor/pipeline/OF_EX_LatchType.java modified in the future.
+    [javac] Warning: processor/pipeline/OperandFetch.java modified in the future.
+    [javac] Warning: processor/pipeline/RegisterFile.java modified in the future.
+    [javac] Warning: processor/pipeline/RegisterWrite.java modified in the future.
+    [javac] Compiling 22 source files to /mnt/c/Users/rjngu/OneDrive/Desktop/ca_assignment/Lab_A3/supporting_files/submissions/bin
+    [javac] warning: [options] bootstrap class path not set in conjunction with -source 8
+    [javac] 1 warning
+
+build:
+
+make-jar:
+      [jar] Warning: configuration/Configuration.class modified in the future.
+      [jar] Warning: configuration/config.xml modified in the future.
+      [jar] Warning: generic/Instruction$OperationType.class modified in the future.
+      [jar] Warning: generic/Instruction.class modified in the future.
+      [jar] Warning: generic/Misc.class modified in the future.
+      [jar] Warning: generic/Operand$OperandType.class modified in the future.
+      [jar] Warning: generic/Operand.class modified in the future.
+      [jar] Warning: generic/Simulator.class modified in the future.
+      [jar] Warning: generic/Statistics.class modified in the future.
+      [jar] Warning: lab_report.pdf modified in the future.
+      [jar] Warning: lab_report_210020041_210010005.pdf modified in the future.
+      [jar] Warning: main/Main.class modified in the future.
+      [jar] Warning: processor/Clock.class modified in the future.
+      [jar] Warning: processor/Processor.class modified in the future.
+      [jar] Warning: processor/memorysystem/MainMemory.class modified in the future.
+      [jar] Warning: processor/pipeline/EX_IF_LatchType.class modified in the future.
+      [jar] Warning: processor/pipeline/EX_MA_LatchType.class modified in the future.
+      [jar] Warning: processor/pipeline/Execute.class modified in the future.
+      [jar] Warning: processor/pipeline/IF_EnableLatchType.class modified in the future.
+      [jar] Warning: processor/pipeline/IF_OF_LatchType.class modified in the future.
+      [jar] Warning: processor/pipeline/InstructionFetch.class modified in the future.
+      [jar] Warning: processor/pipeline/MA_RW_LatchType.class modified in the future.
+      [jar] Warning: processor/pipeline/MemoryAccess.class modified in the future.
+      [jar] Warning: processor/pipeline/OF_EX_LatchType.class modified in the future.
+      [jar] Warning: processor/pipeline/OperandFetch.class modified in the future.
+      [jar] Warning: processor/pipeline/RegisterFile.class modified in the future.
+      [jar] Warning: processor/pipeline/RegisterWrite$1.class modified in the future.
+      [jar] Warning: processor/pipeline/RegisterWrite.class modified in the future.
+      [jar] Building jar: /mnt/c/Users/rjngu/OneDrive/Desktop/ca_assignment/Lab_A3/supporting_files/submissions/jars/simulator.jar
+
+BUILD SUCCESSFUL
+Total time: 7 seconds
+Buildfile: /mnt/c/Users/rjngu/OneDrive/Desktop/ca_assignment/Lab_A3/supporting_files/submissions/build.xml
+
+build-subprojects:
+
+init:
+     [copy] Warning: configuration/config.xml modified in the future.
+     [copy] Warning: lab_report.pdf modified in the future.
+     [copy] Warning: lab_report_210020041_210010005.pdf modified in the future.
+     [copy] Copying 2 files to /mnt/c/Users/rjngu/OneDrive/Desktop/ca_assignment/Lab_A3/supporting_files/submissions/bin
+
+build-project:
+    [javac] Warning: configuration/Configuration.java modified in the future.
+    [javac] Warning: configuration/config.xml modified in the future.
+    [javac] Warning: generic/Instruction.java modified in the future.
+    [javac] Warning: generic/Misc.java modified in the future.
+    [javac] Warning: generic/Operand.java modified in the future.
+    [javac] Warning: generic/Simulator.java modified in the future.
+    [javac] Warning: generic/Statistics.java modified in the future.
+    [javac] Warning: lab_report.pdf modified in the future.
+    [javac] Warning: lab_report_210020041_210010005.pdf modified in the future.
+    [javac] Warning: main/Main.java modified in the future.
+    [javac] Warning: processor/Clock.java modified in the future.
+    [javac] Warning: processor/Processor.java modified in the future.
+    [javac] Warning: processor/memorysystem/MainMemory.java modified in the future.
+    [javac] Warning: processor/pipeline/EX_IF_LatchType.java modified in the future.
+    [javac] Warning: processor/pipeline/EX_MA_LatchType.java modified in the future.
+    [javac] Warning: processor/pipeline/Execute.java modified in the future.
+    [javac] Warning: processor/pipeline/IF_EnableLatchType.java modified in the future.
+    [javac] Warning: processor/pipeline/IF_OF_LatchType.java modified in the future.
+    [javac] Warning: processor/pipeline/InstructionFetch.java modified in the future.
+    [javac] Warning: processor/pipeline/MA_RW_LatchType.java modified in the future.
+    [javac] Warning: processor/pipeline/MemoryAccess.java modified in the future.
+    [javac] Warning: processor/pipeline/OF_EX_LatchType.java modified in the future.
+    [javac] Warning: processor/pipeline/OperandFetch.java modified in the future.
+    [javac] Warning: processor/pipeline/RegisterFile.java modified in the future.
+    [javac] Warning: processor/pipeline/RegisterWrite.java modified in the future.
+    [javac] Compiling 22 source files to /mnt/c/Users/rjngu/OneDrive/Desktop/ca_assignment/Lab_A3/supporting_files/submissions/bin
+    [javac] warning: [options] bootstrap class path not set in conjunction with -source 8
+Buildfile: /mnt/c/Users/rjngu/OneDrive/Desktop/ca_assignment/Lab_A3/supporting_files/submissions/build.xml
+
+build-subprojects:
+
+init:
+     [copy] Warning: configuration/config.xml modified in the future.
+     [copy] Warning: lab_report.pdf modified in the future.
+     [copy] Warning: lab_report_210020041_210010005.pdf modified in the future.
+     [copy] Copying 2 files to /mnt/c/Users/rjngu/OneDrive/Desktop/ca_assignment/Lab_A3/supporting_files/submissions/bin
+
+build-project:
+    [javac] Warning: configuration/Configuration.java modified in the future.
+    [javac] Warning: configuration/config.xml modified in the future.
+    [javac] Warning: generic/Instruction.java modified in the future.
+    [javac] Warning: generic/Misc.java modified in the future.
+    [javac] Warning: generic/Operand.java modified in the future.
+    [javac] Warning: generic/Simulator.java modified in the future.
+    [javac] Warning: generic/Statistics.java modified in the future.
+    [javac] Warning: lab_report.pdf modified in the future.
+    [javac] Warning: lab_report_210020041_210010005.pdf modified in the future.
+    [javac] Warning: main/Main.java modified in the future.
+    [javac] Warning: processor/Clock.java modified in the future.
+    [javac] Warning: processor/Processor.java modified in the future.
+    [javac] Warning: processor/memorysystem/MainMemory.java modified in the future.
+    [javac] Warning: processor/pipeline/EX_IF_LatchType.java modified in the future.
+    [javac] Warning: processor/pipeline/EX_MA_LatchType.java modified in the future.
+    [javac] Warning: processor/pipeline/Execute.java modified in the future.
+    [javac] Warning: processor/pipeline/IF_EnableLatchType.java modified in the future.
+    [javac] Warning: processor/pipeline/IF_OF_LatchType.java modified in the future.
+    [javac] Warning: processor/pipeline/InstructionFetch.java modified in the future.
+    [javac] Warning: processor/pipeline/MA_RW_LatchType.java modified in the future.
+    [javac] Warning: processor/pipeline/MemoryAccess.java modified in the future.
+    [javac] Warning: processor/pipeline/OF_EX_LatchType.java modified in the future.
+    [javac] Warning: processor/pipeline/OperandFetch.java modified in the future.
+    [javac] Warning: processor/pipeline/RegisterFile.java modified in the future.
+    [javac] Warning: processor/pipeline/RegisterWrite.java modified in the future.
+    [javac] Compiling 22 source files to /mnt/c/Users/rjngu/OneDrive/Desktop/ca_assignment/Lab_A3/supporting_files/submissions/bin
+    [javac] warning: [options] bootstrap class path not set in conjunction with -source 8
+    [javac] 1 warning
+
+build:
+
+make-jar:
+      [jar] Warning: configuration/Configuration.class modified in the future.
+      [jar] Warning: configuration/config.xml modified in the future.
+      [jar] Warning: generic/Instruction$OperationType.class modified in the future.
+      [jar] Warning: generic/Instruction.class modified in the future.
+      [jar] Warning: generic/Misc.class modified in the future.
+      [jar] Warning: generic/Operand$OperandType.class modified in the future.
+      [jar] Warning: generic/Operand.class modified in the future.
+      [jar] Warning: generic/Simulator.class modified in the future.
+      [jar] Warning: generic/Statistics.class modified in the future.
+      [jar] Warning: lab_report.pdf modified in the future.
+      [jar] Warning: lab_report_210020041_210010005.pdf modified in the future.
+      [jar] Warning: main/Main.class modified in the future.
+      [jar] Warning: processor/Clock.class modified in the future.
+      [jar] Warning: processor/Processor.class modified in the future.
+      [jar] Warning: processor/memorysystem/MainMemory.class modified in the future.
+      [jar] Warning: processor/pipeline/EX_IF_LatchType.class modified in the future.
+      [jar] Warning: processor/pipeline/EX_MA_LatchType.class modified in the future.
+      [jar] Warning: processor/pipeline/Execute.class modified in the future.
+      [jar] Warning: processor/pipeline/IF_EnableLatchType.class modified in the future.
+      [jar] Warning: processor/pipeline/IF_OF_LatchType.class modified in the future.
+      [jar] Warning: processor/pipeline/InstructionFetch.class modified in the future.
+      [jar] Warning: processor/pipeline/MA_RW_LatchType.class modified in the future.
+      [jar] Warning: processor/pipeline/MemoryAccess.class modified in the future.
+      [jar] Warning: processor/pipeline/OF_EX_LatchType.class modified in the future.
+      [jar] Warning: processor/pipeline/OperandFetch.class modified in the future.
+      [jar] Warning: processor/pipeline/RegisterFile.class modified in the future.
+      [jar] Warning: processor/pipeline/RegisterWrite$1.class modified in the future.
+      [jar] Warning: processor/pipeline/RegisterWrite.class modified in the future.
+      [jar] Building jar: /mnt/c/Users/rjngu/OneDrive/Desktop/ca_assignment/Lab_A3/supporting_files/submissions/jars/simulator.jar
+
+BUILD SUCCESSFUL
+Total time: 7 seconds
+Buildfile: /mnt/c/Users/rjngu/OneDrive/Desktop/ca_assignment/Lab_A3/supporting_files/submissions/build.xml
+
+build-subprojects:
+
+init:
+     [copy] Copying 2 files to /mnt/c/Users/rjngu/OneDrive/Desktop/ca_assignment/Lab_A3/supporting_files/submissions/bin
+
+build-project:
+    [javac] Compiling 22 source files to /mnt/c/Users/rjngu/OneDrive/Desktop/ca_assignment/Lab_A3/supporting_files/submissions/bin
+    [javac] warning: [options] bootstrap class path not set in conjunction with -source 8
+    [javac] 1 warning
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 6 seconds
+Buildfile: /mnt/c/Users/rjngu/OneDrive/Desktop/ca_assignment/Lab_A3/supporting_files/submissions/build.xml
+
+build-subprojects:
+
+init:
+     [copy] Copying 2 files to /mnt/c/Users/rjngu/OneDrive/Desktop/ca_assignment/Lab_A3/supporting_files/submissions/bin
+
+build-project:
+    [javac] Compiling 22 source files to /mnt/c/Users/rjngu/OneDrive/Desktop/ca_assignment/Lab_A3/supporting_files/submissions/bin
+    [javac] warning: [options] bootstrap class path not set in conjunction with -source 8
+    [javac] 1 warning
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 6 seconds
+Buildfile: /mnt/c/Users/rjngu/OneDrive/Desktop/ca_assignment/Lab_A3/supporting_files/submissions/build.xml
+
+build-subprojects:
+
+init:
+     [copy] Copying 2 files to /mnt/c/Users/rjngu/OneDrive/Desktop/ca_assignment/Lab_A3/supporting_files/submissions/bin
+
+build-project:
+    [javac] Compiling 22 source files to /mnt/c/Users/rjngu/OneDrive/Desktop/ca_assignment/Lab_A3/supporting_files/submissions/bin
+    [javac] warning: [options] bootstrap class path not set in conjunction with -source 8
+    [javac] 1 warning
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 6 seconds

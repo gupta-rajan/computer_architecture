@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="assembler">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jars/assembler.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

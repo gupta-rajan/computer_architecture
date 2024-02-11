@@ -1,0 +1,6 @@
+A1:
+
+Stack Pointer (x1): The stack pointer is used to point to the top of the call stack. It's crucial for managing function calls and local variables.
+
+Frame Pointer (x2): The frame pointer is often used to reference the current stack frame. It's useful for accessing local variables within a function.
+

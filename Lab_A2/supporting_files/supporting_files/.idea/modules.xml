@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/submissions/submissions.iml" filepath="$PROJECT_DIR$/submissions/submissions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/supporting_files.iml" filepath="$PROJECT_DIR$/supporting_files.iml" />
+    </modules>
+  </component>
+</project>
